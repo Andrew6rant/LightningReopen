@@ -4,7 +4,9 @@ Forked version of [SeinopSys' LightningReopen](https://github.com/SeinopSys/Ligh
 
 This extension keeps Chromium-based browsers (Chrome, Vivaldi, Opera, Brave, etc.) loaded in the background, allowing for quick re-opening.
 
-LightningReopenV3 is not compatible with non-chromium browsers such as FireFox, Safari, or Lynx. It is also not needed on Edge (as Edge implements the functionality of this extension itself: https://www.microsoft.com/en-us/edge/features/startup-boost).
+Lightning Reopen V3 is not compatible with non-chromium browsers such as Firefox, Safari, or Lynx. It is also not needed on Edge (as Edge implements the functionality of this extension itself: https://www.microsoft.com/en-us/edge/features/startup-boost).
+
+Lightning Reopen V3 has no access to your browsing data. The extension does not have any tracking or analytics functionality, will never be sold, and will always be fully open-sourced.
 
 <details>
   <summary>Original LightningReopen README:</summary>
