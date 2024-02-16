@@ -1,4 +1,4 @@
-# LightningReopenV3
+<h1 style="text-align: center;"><img align="center" width="64" height="64" src="extension/logo256.png"> LightningReopenV3</h1>
 
 Forked version of [SeinopSys' LightningReopen](https://github.com/SeinopSys/LightningReopen), with Manifest V3 support. ([#7](https://github.com/SeinopSys/LightningReopen/issues/7))
 
@@ -10,7 +10,7 @@ LightningReopenV3 is not compatible with non-chromium browsers such as FireFox, 
   <summary>Original LightningReopen README:</summary>
 
 
-<h1><img src="extension/logo64.png" width="32"> Lightning Reopen for Chrome</h1>
+<h1><img src="screenshots/logo64.png" width="32"> Lightning Reopen for Chrome</h1>
 
 Do you have a million extensions installed that take absolutely ages to load when you open a new Chrome window, causing freezes and stuttering? Do you want to get notifications from your browser extensions without having to keep a Chrome window open and cluttering your taskbar? Do you have more RAM than you know what to do with?
 
