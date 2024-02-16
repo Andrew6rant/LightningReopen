@@ -1,6 +1,6 @@
 {
-	"name": "Lightning ReopenV3",
-	"version": "1.0.3",
+	"name": "Lightning Reopen V3",
+	"version": "1.0.0",
 	"description": "Keep your browser loaded in the background for faster re-opening",
 	"permissions": [
 		"background"

@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"><img align="center" width="64" height="64" src="extension/logo256.png"> LightningReopenV3</h1>
+<h1 style="text-align: center;"><img align="center" width="64" height="64" src="extension/logo256.png"> Lightning Reopen V3</h1>
 
 Forked version of [SeinopSys' LightningReopen](https://github.com/SeinopSys/LightningReopen), with Manifest V3 support. ([#7](https://github.com/SeinopSys/LightningReopen/issues/7))
 
